@@ -4,3 +4,5 @@ UML類別圖，UML中的重要圖形，是在物件導向語言用中用來表�
 
 ![image](https://github.com/dogg21/SE_MID/blob/main/image/1.png)
 
+## 1:類
+
