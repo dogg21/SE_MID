@@ -74,6 +74,8 @@ UML類別圖，UML中的重要圖形，是在物件導向語言用中用來表�
 
 ![image](https://github.com/dogg21/SE_MID/blob/main/image/9.png)
 
+參考文獻[干货！3分钟掌握UML类图](https://www.zhihu.com/tardis/bd/art/267298708?source_id=1001)
+
 
 
 
